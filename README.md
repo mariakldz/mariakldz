@@ -14,6 +14,7 @@
   <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50" />
+  <img src="https://kestra.io/logo.svg" alt="Kestra" width="50" height="50" />
 </p>
 
 <!--
